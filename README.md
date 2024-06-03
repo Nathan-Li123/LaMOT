@@ -3,7 +3,7 @@ LaMOT: Language-Guided Multi-Object Tracking <br>
 Yunhao Li, Xiaoqiong Liu, Luke Liu, Heng Fan, Libo Zhang <br>
 
 ![examples](assets/examples.png) <br>
-**Figure**: We introduce a large-scale benchmark *LaMOT*, which comprises 1,660 sequences, 1.67M frames, and over 18.9K target trajectories. LaMOT contains videos from 4 MOT datasets, including *MOT17*, *TAO*, *SportsMOT*, and *VisDrone2019*. It encompasses five different video scenarios including *surveillance*, *autonomous driving*, *sports broadcasting*, *drone*, and *daily life*. To our knowledge, LaMOT is the first benchmark dedicated to Language-Guided MOT.
+**Figure**: We introduce a large-scale benchmark **LaMOT**, which comprises 1,660 sequences, 1.67M frames, and over 18.9K trajectories. LaMOT contains videos from 4 datasets, including *MOT17*, *TAO*, *SportsMOT*, and *VisDrone2019*. It encompasses five different video scenarios including *surveillance*, *autonomous driving*, *sports broadcasting*, *drone*, and *daily life*. To our knowledge, LaMOT is the first benchmark dedicated to Language-Guided MOT.
 
 ### Organization
 We provide the annotations in the following manner:
