@@ -1,5 +1,5 @@
 ## LaMOT: Language-Guided Multi-Object Tracking
-LaMOT: Language-Guided Multi-Object Tracking <br>
+[ICRA 2025] LaMOT: Language-Guided Multi-Object Tracking <br>
 Yunhao Li, Xiaoqiong Liu, Luke Liu, Heng Fan, Libo Zhang <br>
 
 ![examples](assets/examples.png) <br>
